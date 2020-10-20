@@ -6,8 +6,8 @@ This program is designed to create a password using math.floor/math.random. Be a
 ### Special Charactrs
 
 special Characters script lines **29-32** listed special characters because certain websites do not allow *ALL* special characters.
-Thus we implemented the most universally acceptable characters.
+Thus I implemented the most universally acceptable characters.
 
 
 ### Screenshots
-![Alt text](https://github.com/camRight/GeneratingPassword/blob/main/Screenshot%202020-10-20%20123053.png "Screenshot of Index.html")
+![Alt text](https://github.com/camRight/GeneratingPassword/blob/main/Screenshot%202020-10-20%20123053.png "Screenshot of Index.html with working password")
