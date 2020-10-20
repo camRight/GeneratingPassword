@@ -10,4 +10,7 @@ Thus I implemented the most universally acceptable characters.
 
 
 ### Screenshots
+
+
+One early iteration of passwordScript. Full functionality:
 ![Alt text](https://github.com/camRight/GeneratingPassword/blob/main/Screenshot%202020-10-20%20123053.png "Screenshot of Index.html with working password")
