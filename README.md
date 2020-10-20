@@ -2,11 +2,13 @@
 
 This program is designed to create a password using math.floor/math.random. Be aware that there is only a certain amount of entropy. Thus be weary using this password generator for anything that requires rock-solid security.
 
+Password Character Length is configurable. One can also enable or disable upperCase, lowerCase, numbers, and symbols.
 
-## Special Charactrs
+
+## Special Characters
 
 special Characters script lines **29-32** listed special characters because certain websites do not allow *ALL* special characters.
-Thus I implemented the most universally acceptable characters.
+Thus I implemented the most universally acceptable characters in a string.
 
 
 ## Screenshots
