@@ -10,4 +10,4 @@ Thus we implemented the most universally acceptable characters.
 
 
 ### Screenshots
-![Alt text](JavaScript\Screenshot 2020-10-20 123053.png?raw=true "Screenshot of Index.html")
+![Alt text](https://github.com/camRight/GeneratingPassword/blob/main/Screenshot%202020-10-20%20123053.png "Screenshot of Index.html")
