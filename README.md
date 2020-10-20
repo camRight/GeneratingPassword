@@ -6,7 +6,7 @@ This program is designed to create a password using math.floor/math.random. Be a
 ### Special Charactrs
 
 special Characters script lines **29-32** listed special characters because certain websites do not allow *ALL* special characters.
-Thus we implemented the most universally acceptable.
+Thus we implemented the most universally acceptable characters.
 
 
 ### Screenshots
