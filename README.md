@@ -10,4 +10,4 @@ Thus we implemented the most universally acceptable characters.
 
 
 ### Screenshots
-<img src=“./Screenshot 2020-10-20 123053.png”>
+![Alt text](JavaScript\Screenshot 2020-10-20 123053.png?raw=true "Screenshot of Index.html")
