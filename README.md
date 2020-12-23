@@ -21,3 +21,4 @@ Thus I implemented the most universally acceptable characters in a string.
 ## Links
 
 Hosted Site:  https://camright.github.io/GeneratingPassword/
+Repo:  https://github.com/camRight/GeneratingPassword/
